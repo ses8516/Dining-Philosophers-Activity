@@ -1,3 +1,6 @@
+/**
+ * Interface for acquiring and releasing a fork
+ */
 public interface IFork {
     /*
      * A philosopher (attempts to) acquire the fork.

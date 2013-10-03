@@ -1,0 +1,1779 @@
+Run #1
+#########################################################################################
+java Driver 2 0 0 0
+Philosopher 1 thinks for 0 time units
+Philosopher 0 thinks for 0 time units
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 0 time unts
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 0 time units
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 0 time unts
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 0 time units
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 0 time unts
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 0 time units
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 0 time unts
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 0 time units
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 0 time unts
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 0 time units
+Philosopher 0 goes for right fork
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 1 goes for left fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+
+Deadlock reached
+#########################################################################################
+
+Run #2
+#########################################################################################
+java Driver 8 10 100 100
+Philosopher 1 thinks for 38 time units
+Philosopher 0 thinks for 69 time units
+Philosopher 3 thinks for 31 time units
+Philosopher 4 thinks for 53 time units
+Philosopher 2 thinks for 23 time units
+Philosopher 5 thinks for 31 time units
+Philosopher 6 thinks for 21 time units
+Philosopher 7 thinks for 37 time units
+Philosopher 6 goes for right fork
+Philosopher 6 has right fork
+Philosopher 2 goes for right fork
+Philosopher 2 has right fork
+Philosopher 6 goes for left fork
+Philosopher 6 has left fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 6 eats for 38 time unts
+Philosopher 2 eats for 72 time unts
+Philosopher 3 goes for right fork
+Philosopher 5 goes for right fork
+Philosopher 5 has right fork
+Philosopher 5 goes for left fork
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 1 goes for left fork
+Philosopher 7 goes for right fork
+Philosopher 4 goes for right fork
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 48 time units
+Philosopher 5 has left fork
+Philosopher 7 has right fork
+Philosopher 5 eats for 59 time unts
+Philosopher 7 goes for left fork
+Philosopher 7 has left fork
+Philosopher 7 eats for 48 time unts
+Philosopher 0 goes for right fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 9 time units
+Philosopher 6 goes for right fork
+Philosopher 1 has left fork
+Philosopher 3 has right fork
+Philosopher 7 releases right fork
+Philosopher 7 releases left fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 7 thinks for 43 time units
+Philosopher 1 eats for 25 time unts
+Philosopher 3 goes for left fork
+Philosopher 2 goes for right fork
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 63 time units
+Philosopher 4 has left fork
+Philosopher 6 has right fork
+Philosopher 4 eats for 64 time unts
+Philosopher 6 goes for left fork
+Philosopher 6 has left fork
+Philosopher 6 eats for 61 time unts
+Philosopher 1 releases right fork
+Philosopher 0 has left fork
+Philosopher 2 has right fork
+Philosopher 0 eats for 75 time unts
+Philosopher 2 goes for left fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 18 time units
+Philosopher 1 goes for right fork
+Philosopher 7 goes for right fork
+Philosopher 5 goes for right fork
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 0 time units
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 61 time units
+Philosopher 3 has left fork
+Philosopher 7 has right fork
+Philosopher 6 goes for right fork
+Philosopher 6 has right fork
+Philosopher 5 has right fork
+Philosopher 6 goes for left fork
+Philosopher 3 eats for 60 time unts
+Philosopher 7 goes for left fork
+Philosopher 5 goes for left fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 78 time units
+Philosopher 7 has left fork
+Philosopher 1 has right fork
+Philosopher 7 eats for 25 time unts
+Philosopher 1 goes for left fork
+Philosopher 6 has left fork
+Philosopher 6 eats for 44 time unts
+Philosopher 7 releases right fork
+Philosopher 7 releases left fork
+Philosopher 7 thinks for 9 time units
+Philosopher 4 goes for right fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 71 time unts
+Philosopher 3 releases right fork
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 55 time units
+Philosopher 7 goes for right fork
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 5 has left fork
+Philosopher 6 thinks for 24 time units
+Philosopher 7 has right fork
+Philosopher 5 eats for 13 time unts
+Philosopher 7 goes for left fork
+Philosopher 7 has left fork
+Philosopher 7 eats for 64 time unts
+Philosopher 0 goes for right fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 49 time unts
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 45 time units
+Philosopher 3 goes for right fork
+Philosopher 6 goes for right fork
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 55 time units
+Philosopher 3 has right fork
+Philosopher 1 has left fork
+Philosopher 3 goes for left fork
+Philosopher 1 eats for 71 time unts
+Philosopher 5 goes for right fork
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 84 time units
+Philosopher 3 has left fork
+Philosopher 5 has right fork
+Philosopher 3 eats for 0 time unts
+Philosopher 7 releases right fork
+Philosopher 7 releases left fork
+Philosopher 7 thinks for 7 time units
+Philosopher 5 goes for left fork
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 64 time units
+Philosopher 0 has right fork
+Philosopher 6 has left fork
+Philosopher 0 goes for left fork
+Philosopher 6 eats for 31 time unts
+Philosopher 7 goes for right fork
+Philosopher 2 goes for right fork
+Philosopher 5 has left fork
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 1 time units
+Philosopher 5 eats for 17 time unts
+Philosopher 7 has right fork
+Philosopher 7 goes for left fork
+Philosopher 6 goes for right fork
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 68 time units
+Philosopher 2 has right fork
+Philosopher 0 has left fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 0 eats for 65 time unts
+Philosopher 2 eats for 91 time unts
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 5 thinks for 87 time units
+Philosopher 3 goes for right fork
+Philosopher 4 goes for right fork
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 46 time unts
+Philosopher 7 has left fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 69 time units
+Philosopher 7 eats for 90 time unts
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 1 goes for left fork
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 46 time units
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 91 time units
+Philosopher 1 has left fork
+Philosopher 3 has right fork
+Philosopher 5 goes for right fork
+Philosopher 5 has right fork
+Philosopher 1 eats for 11 time unts
+Philosopher 3 goes for left fork
+Philosopher 3 has left fork
+Philosopher 5 goes for left fork
+Philosopher 3 eats for 46 time unts
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 57 time units
+Philosopher 4 goes for right fork
+Philosopher 0 goes for right fork
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 38 time units
+Philosopher 7 releases right fork
+Philosopher 7 releases left fork
+Philosopher 7 thinks for 63 time units
+Philosopher 0 has right fork
+Philosopher 4 has right fork
+Philosopher 6 has left fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 4 goes for left fork
+Philosopher 6 eats for 61 time unts
+Philosopher 0 eats for 59 time unts
+Philosopher 1 goes for right fork
+Philosopher 2 goes for right fork
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 29 time unts
+Philosopher 3 goes for right fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 32 time units
+Philosopher 3 has right fork
+Philosopher 3 goes for left fork
+Philosopher 7 goes for right fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 6 time units
+Philosopher 1 has right fork
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 eats for 62 time unts
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 92 time units
+Philosopher 5 has left fork
+Philosopher 7 has right fork
+Philosopher 5 eats for 2 time unts
+Philosopher 7 goes for left fork
+Philosopher 7 has left fork
+Philosopher 7 eats for 100 time unts
+Philosopher 4 has left fork
+Philosopher 4 eats for 31 time unts
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 34 time units
+Philosopher 0 goes for right fork
+Philosopher 2 goes for right fork
+Philosopher 3 has left fork
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 39 time units
+Philosopher 3 eats for 54 time unts
+Philosopher 5 goes for right fork
+Philosopher 5 has right fork
+Philosopher 5 goes for left fork
+Philosopher 5 has left fork
+Philosopher 5 eats for 70 time unts
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 70 time units
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 4 goes for right fork
+Philosopher 3 releases right fork
+Philosopher 2 has left fork
+Philosopher 4 has right fork
+Philosopher 2 eats for 69 time unts
+Philosopher 4 goes for left fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 92 time units
+Philosopher 6 goes for right fork
+Philosopher 7 releases right fork
+Philosopher 7 releases left fork
+Philosopher 7 thinks for 67 time units
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 72 time unts
+Philosopher 4 has left fork
+Philosopher 4 eats for 78 time unts
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 6 has left fork
+Philosopher 6 eats for 5 time unts
+Philosopher 5 thinks for 37 time units
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 80 time units
+Philosopher 1 goes for right fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 77 time units
+Philosopher 5 goes for right fork
+Philosopher 7 goes for right fork
+Philosopher 7 has right fork
+Philosopher 7 goes for left fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 69 time units
+Philosopher 7 has left fork
+Philosopher 1 has right fork
+Philosopher 7 eats for 80 time unts
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 eats for 43 time unts
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 3 goes for left fork
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 88 time units
+Philosopher 5 has right fork
+Philosopher 3 has left fork
+Philosopher 5 goes for left fork
+Philosopher 5 has left fork
+Philosopher 3 eats for 30 time unts
+Philosopher 5 eats for 48 time unts
+Philosopher 6 goes for right fork
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 91 time units
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 69 time units
+Philosopher 2 goes for right fork
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 7 time unts
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 5 thinks for 17 time units
+Philosopher 0 goes for right fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 44 time units
+Philosopher 7 releases right fork
+Philosopher 6 has left fork
+Philosopher 0 has right fork
+Philosopher 6 eats for 30 time unts
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 90 time unts
+Philosopher 7 releases left fork
+Philosopher 7 thinks for 78 time units
+Philosopher 5 goes for right fork
+Philosopher 5 has right fork
+Philosopher 5 goes for left fork
+Philosopher 4 goes for right fork
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 5 has left fork
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 0 time units
+Philosopher 6 goes for right fork
+Philosopher 5 eats for 2 time unts
+Philosopher 5 releases right fork
+Philosopher 4 has left fork
+Philosopher 6 has right fork
+Philosopher 4 eats for 78 time unts
+Philosopher 6 goes for left fork
+Philosopher 6 has left fork
+Philosopher 6 eats for 15 time unts
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 15 time units
+Philosopher 2 goes for right fork
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 43 time unts
+Philosopher 3 goes for right fork
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 50 time units
+Philosopher 5 goes for right fork
+Philosopher 1 goes for right fork
+Philosopher 7 goes for right fork
+Philosopher 7 has right fork
+Philosopher 7 goes for left fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 41 time units
+Philosopher 3 has right fork
+Philosopher 3 goes for left fork
+Philosopher 7 has left fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 74 time units
+Philosopher 7 eats for 63 time unts
+Philosopher 1 has right fork
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 eats for 13 time unts
+Philosopher 6 goes for right fork
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 29 time units
+Philosopher 1 thinks for 63 time units
+Philosopher 5 has right fork
+Philosopher 3 has left fork
+Philosopher 5 goes for left fork
+Philosopher 3 eats for 95 time unts
+Philosopher 2 goes for right fork
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 4 goes for right fork
+Philosopher 7 releases right fork
+Philosopher 6 has left fork
+Philosopher 6 eats for 74 time unts
+Philosopher 7 releases left fork
+Philosopher 7 thinks for 64 time units
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 41 time unts
+Philosopher 1 goes for right fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 44 time units
+Philosopher 1 has right fork
+Philosopher 3 releases right fork
+Philosopher 2 has left fork
+Philosopher 4 has right fork
+Philosopher 2 eats for 90 time unts
+Philosopher 4 goes for left fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 24 time units
+Philosopher 1 goes for left fork
+Philosopher 7 goes for right fork
+Philosopher 5 has left fork
+Philosopher 5 eats for 92 time unts
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 62 time units
+Philosopher 7 has right fork
+Philosopher 7 goes for left fork
+Philosopher 7 has left fork
+Philosopher 7 eats for 23 time unts
+Philosopher 3 goes for right fork
+Philosopher 0 goes for right fork
+Philosopher 7 releases right fork
+Philosopher 7 releases left fork
+Philosopher 7 thinks for 48 time units
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 6 goes for right fork
+Philosopher 7 goes for right fork
+Philosopher 7 has right fork
+Philosopher 7 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 eats for 18 time unts
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 92 time units
+Philosopher 3 has right fork
+Philosopher 3 goes for left fork
+Philosopher 5 releases right fork
+Philosopher 4 has left fork
+Philosopher 6 has right fork
+Philosopher 4 eats for 40 time unts
+Philosopher 6 goes for left fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 41 time units
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 77 time units
+Philosopher 0 has left fork
+Philosopher 0 eats for 64 time unts
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 32 time units
+Philosopher 5 goes for right fork
+Philosopher 5 has right fork
+Philosopher 3 has left fork
+Philosopher 5 goes for left fork
+Philosopher 3 eats for 13 time unts
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 37 time units
+Philosopher 4 goes for right fork
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 43 time units
+Philosopher 7 has left fork
+Philosopher 7 eats for 55 time unts
+Philosopher 2 goes for right fork
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 43 time unts
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 1 goes for left fork
+Philosopher 3 goes for right fork
+Philosopher 0 goes for right fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 3 time units
+Philosopher 1 has left fork
+Philosopher 3 has right fork
+Philosopher 1 eats for 21 time unts
+Philosopher 3 goes for left fork
+Philosopher 7 releases right fork
+Philosopher 6 has left fork
+Philosopher 0 has right fork
+Philosopher 6 eats for 78 time unts
+Philosopher 0 goes for left fork
+Philosopher 7 releases left fork
+Philosopher 7 thinks for 73 time units
+Philosopher 2 goes for right fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 27 time unts
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 1 thinks for 58 time units
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 39 time units
+Philosopher 7 goes for right fork
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 5 has left fork
+Philosopher 7 has right fork
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 5 eats for 96 time unts
+Philosopher 7 goes for left fork
+Philosopher 7 has left fork
+Philosopher 1 goes for left fork
+Philosopher 7 eats for 31 time unts
+Philosopher 0 goes for right fork
+Philosopher 7 releases right fork
+Philosopher 7 releases left fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 5 releases right fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 21 time unts
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 97 time units
+Philosopher 4 releases right fork
+Philosopher 3 has left fork
+Philosopher 3 eats for 67 time unts
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 14 time units
+Philosopher 4 goes for right fork
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 44 time units
+Philosopher 5 goes for right fork
+Philosopher 5 has right fork
+Philosopher 5 goes for left fork
+Philosopher 5 has left fork
+Philosopher 5 eats for 25 time unts
+Philosopher 2 has left fork
+Philosopher 4 has right fork
+Philosopher 2 eats for 94 time unts
+Philosopher 4 goes for left fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 40 time unts
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 3 goes for right fork
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 84 time units
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 3 has right fork
+Philosopher 1 has left fork
+Philosopher 3 goes for left fork
+Philosopher 3 has left fork
+Philosopher 1 eats for 3 time unts
+Philosopher 3 eats for 75 time unts
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 44 time units
+Philosopher 0 has left fork
+Philosopher 0 eats for 50 time unts
+Philosopher 4 goes for right fork
+Philosopher 1 goes for right fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 72 time units
+Philosopher 1 has right fork
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 eats for 73 time unts
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 1 time units
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 3 goes for left fork
+Philosopher 3 has left fork
+Philosopher 3 eats for 91 time unts
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 4 time unts
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 97 time unts
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+
+Terminated successfully
+#########################################################################################
+
+Run #3
+#########################################################################################
+java Driver -l 4 7 50 50
+Philosopher 1 thinks for 4 time units
+Philosopher 2 thinks for 10 time units
+Philosopher 0 thinks for 9 time units
+Philosopher 3 thinks for 44 time units
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 1 eats for 47 time unts
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 2 goes for right fork
+Philosopher 3 goes for left fork
+Philosopher 1 releases right fork
+Philosopher 0 has left fork
+Philosopher 2 has right fork
+Philosopher 0 eats for 2 time unts
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 10 time unts
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 39 time units
+Philosopher 3 has left fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 2 time units
+Philosopher 3 goes for right fork
+Philosopher 0 goes for right fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 0 time units
+Philosopher 2 goes for right fork
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 31 time unts
+Philosopher 1 goes for left fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 40 time units
+Philosopher 1 has left fork
+Philosopher 3 has right fork
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 3 eats for 33 time unts
+Philosopher 1 eats for 49 time unts
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 12 time units
+Philosopher 0 has right fork
+Philosopher 2 goes for right fork
+Philosopher 0 goes for left fork
+Philosopher 3 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 23 time unts
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 13 time unts
+Philosopher 1 thinks for 41 time units
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 6 time units
+Philosopher 2 goes for right fork
+Philosopher 2 has right fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 16 time units
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 20 time unts
+Philosopher 3 has left fork
+Philosopher 3 goes for right fork
+Philosopher 0 goes for right fork
+Philosopher 1 goes for left fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 13 time units
+Philosopher 1 has left fork
+Philosopher 3 has right fork
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 3 eats for 4 time unts
+Philosopher 1 eats for 22 time unts
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 3 thinks for 20 time units
+Philosopher 2 goes for right fork
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 0 has left fork
+Philosopher 2 has right fork
+Philosopher 0 eats for 50 time unts
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 7 time unts
+Philosopher 1 thinks for 17 time units
+Philosopher 3 goes for left fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 37 time units
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 2 goes for right fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 35 time units
+Philosopher 1 has right fork
+Philosopher 3 has left fork
+Philosopher 1 eats for 8 time unts
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 3 eats for 15 time unts
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 14 time units
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 27 time units
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 21 time unts
+Philosopher 1 goes for left fork
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 44 time unts
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 18 time units
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 3 goes for left fork
+Philosopher 2 goes for right fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 45 time units
+Philosopher 1 has right fork
+Philosopher 3 has left fork
+Philosopher 1 eats for 48 time unts
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 3 eats for 11 time unts
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 19 time units
+Philosopher 3 goes for left fork
+Philosopher 3 has left fork
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 3 eats for 3 time unts
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 8 time units
+Philosopher 3 goes for left fork
+Philosopher 3 has left fork
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 0 goes for right fork
+Philosopher 3 eats for 30 time unts
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 1 thinks for 7 time units
+Philosopher 1 goes for left fork
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 14 time units
+Philosopher 0 has right fork
+Philosopher 2 has left fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 2 eats for 32 time unts
+Philosopher 0 eats for 27 time unts
+Philosopher 3 goes for left fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 32 time units
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 3 has left fork
+Philosopher 1 has left fork
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 3 eats for 27 time unts
+Philosopher 1 eats for 17 time unts
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 0 time units
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 1 eats for 26 time unts
+Philosopher 0 goes for right fork
+Philosopher 3 releases right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 3 releases left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 27 time unts
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 42 time units
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 19 time unts
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+
+Terminated successfully
+#########################################################################################
+
+Run #4
+#########################################################################################
+java Driver -l 7 15 5000 5000
+Philosopher 0 thinks for 3597 time units
+Philosopher 2 thinks for 4403 time units
+Philosopher 5 thinks for 3542 time units
+Philosopher 4 thinks for 4143 time units
+Philosopher 3 thinks for 1454 time units
+Philosopher 1 thinks for 2162 time units
+Philosopher 6 thinks for 1334 time units
+Philosopher 6 goes for right fork
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 6 has left fork
+Philosopher 6 eats for 4810 time unts
+Philosopher 3 goes for left fork
+Philosopher 3 has left fork
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 3 eats for 4801 time unts
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 1 eats for 1326 time unts
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 232 time units
+Philosopher 5 goes for left fork
+Philosopher 0 goes for right fork
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 1 eats for 906 time unts
+Philosopher 4 goes for right fork
+Philosopher 2 goes for right fork
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 3348 time units
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 6 releases right fork
+Philosopher 5 has left fork
+Philosopher 0 has right fork
+Philosopher 6 releases left fork
+Philosopher 5 goes for right fork
+Philosopher 6 thinks for 4973 time units
+Philosopher 5 has right fork
+Philosopher 5 eats for 868 time unts
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 3182 time unts
+Philosopher 2 has left fork
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 721 time units
+Philosopher 2 eats for 83 time unts
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 3536 time units
+Philosopher 3 goes for left fork
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 1450 time units
+Philosopher 4 has left fork
+Philosopher 4 eats for 3023 time unts
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 5 goes for left fork
+Philosopher 5 has left fork
+Philosopher 5 goes for right fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 1 has right fork
+Philosopher 0 thinks for 519 time units
+Philosopher 1 eats for 4484 time unts
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 2 goes for right fork
+Philosopher 3 has left fork
+Philosopher 4 releases right fork
+Philosopher 3 goes for right fork
+Philosopher 4 releases left fork
+Philosopher 5 has right fork
+Philosopher 3 has right fork
+Philosopher 4 thinks for 579 time units
+Philosopher 5 eats for 293 time unts
+Philosopher 3 eats for 191 time unts
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 520 time units
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 2577 time units
+Philosopher 4 goes for right fork
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 1998 time unts
+Philosopher 3 goes for left fork
+Philosopher 6 goes for right fork
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 4 releases right fork
+Philosopher 3 has left fork
+Philosopher 4 releases left fork
+Philosopher 3 goes for right fork
+Philosopher 4 thinks for 3216 time units
+Philosopher 3 has right fork
+Philosopher 3 eats for 1580 time unts
+Philosopher 5 goes for left fork
+Philosopher 1 releases right fork
+Philosopher 0 has left fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 2059 time units
+Philosopher 2 has right fork
+Philosopher 0 eats for 2037 time unts
+Philosopher 2 goes for left fork
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 4025 time units
+Philosopher 2 has left fork
+Philosopher 2 eats for 3037 time unts
+Philosopher 4 goes for right fork
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 2137 time unts
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 65 time units
+Philosopher 6 has left fork
+Philosopher 6 eats for 4966 time unts
+Philosopher 1 goes for left fork
+Philosopher 0 goes for right fork
+Philosopher 1 has left fork
+Philosopher 2 releases right fork
+Philosopher 1 goes for right fork
+Philosopher 2 releases left fork
+Philosopher 1 has right fork
+Philosopher 2 thinks for 1374 time units
+Philosopher 1 eats for 3290 time unts
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 4360 time units
+Philosopher 3 goes for left fork
+Philosopher 3 has left fork
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 3 eats for 1699 time unts
+Philosopher 2 goes for right fork
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 3036 time units
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 4092 time units
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 1827 time unts
+Philosopher 5 has left fork
+Philosopher 5 goes for right fork
+Philosopher 5 has right fork
+Philosopher 5 eats for 2781 time unts
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 2115 time units
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 4790 time unts
+Philosopher 4 goes for right fork
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 3238 time units
+Philosopher 6 goes for right fork
+Philosopher 3 goes for left fork
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 4192 time units
+Philosopher 6 has right fork
+Philosopher 4 has left fork
+Philosopher 6 goes for left fork
+Philosopher 4 eats for 2867 time unts
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 2 goes for right fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 1 has right fork
+Philosopher 0 thinks for 2565 time units
+Philosopher 1 eats for 1211 time unts
+Philosopher 6 has left fork
+Philosopher 6 eats for 2194 time unts
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 2911 time units
+Philosopher 3 has left fork
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 3 eats for 989 time unts
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 25 time units
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 1 goes for left fork
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 3854 time units
+Philosopher 2 has left fork
+Philosopher 2 eats for 2364 time unts
+Philosopher 5 goes for left fork
+Philosopher 6 releases right fork
+Philosopher 5 has left fork
+Philosopher 6 releases left fork
+Philosopher 5 goes for right fork
+Philosopher 6 thinks for 633 time units
+Philosopher 5 has right fork
+Philosopher 5 eats for 4825 time unts
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 3728 time unts
+Philosopher 6 goes for right fork
+Philosopher 4 goes for right fork
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 3103 time units
+Philosopher 3 goes for left fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 2979 time units
+Philosopher 1 has right fork
+Philosopher 1 eats for 3397 time unts
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 2734 time units
+Philosopher 6 has right fork
+Philosopher 4 has left fork
+Philosopher 6 goes for left fork
+Philosopher 6 has left fork
+Philosopher 4 eats for 799 time unts
+Philosopher 6 eats for 810 time unts
+Philosopher 2 goes for right fork
+Philosopher 3 has left fork
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 4 releases right fork
+Philosopher 3 eats for 1292 time unts
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 980 time units
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 368 time units
+Philosopher 6 goes for right fork
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 6 has left fork
+Philosopher 6 eats for 36 time unts
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 670 time units
+Philosopher 4 goes for right fork
+Philosopher 6 goes for right fork
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 6 has left fork
+Philosopher 6 eats for 364 time unts
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 3004 time units
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 449 time unts
+Philosopher 0 goes for right fork
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 4952 time units
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 98 time units
+Philosopher 4 goes for right fork
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 8 time unts
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 1279 time units
+Philosopher 0 has left fork
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 29 time units
+Philosopher 0 eats for 3927 time unts
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 242 time unts
+Philosopher 1 goes for left fork
+Philosopher 5 goes for left fork
+Philosopher 5 has left fork
+Philosopher 5 goes for right fork
+Philosopher 5 has right fork
+Philosopher 5 eats for 1541 time unts
+Philosopher 2 releases right fork
+Philosopher 1 has left fork
+Philosopher 2 releases left fork
+Philosopher 1 goes for right fork
+Philosopher 2 thinks for 3533 time units
+Philosopher 4 goes for right fork
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 5 releases right fork
+Philosopher 4 has left fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 1673 time units
+Philosopher 4 eats for 4105 time unts
+Philosopher 3 goes for left fork
+Philosopher 5 goes for left fork
+Philosopher 5 has left fork
+Philosopher 5 goes for right fork
+Philosopher 2 goes for right fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 1 has right fork
+Philosopher 0 thinks for 37 time units
+Philosopher 1 eats for 1384 time unts
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 6 goes for right fork
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 4959 time units
+Philosopher 2 has right fork
+Philosopher 0 has left fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 0 eats for 2636 time unts
+Philosopher 2 eats for 630 time unts
+Philosopher 4 releases right fork
+Philosopher 3 has left fork
+Philosopher 4 releases left fork
+Philosopher 5 has right fork
+Philosopher 3 goes for right fork
+Philosopher 4 thinks for 701 time units
+Philosopher 5 eats for 2353 time unts
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 3 has right fork
+Philosopher 2 thinks for 484 time units
+Philosopher 3 eats for 4803 time unts
+Philosopher 4 goes for right fork
+Philosopher 2 goes for right fork
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 4881 time units
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 2997 time units
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 6 has left fork
+Philosopher 6 eats for 1218 time unts
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 821 time units
+Philosopher 6 goes for right fork
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 6 has left fork
+Philosopher 6 eats for 598 time unts
+Philosopher 1 goes for left fork
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 4695 time units
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 2689 time units
+Philosopher 2 has left fork
+Philosopher 4 has right fork
+Philosopher 2 eats for 1843 time unts
+Philosopher 4 goes for left fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 2309 time unts
+Philosopher 5 goes for left fork
+Philosopher 5 has left fork
+Philosopher 5 goes for right fork
+Philosopher 1 has left fork
+Philosopher 2 releases right fork
+Philosopher 1 goes for right fork
+Philosopher 2 releases left fork
+Philosopher 1 has right fork
+Philosopher 2 thinks for 2840 time units
+Philosopher 1 eats for 3929 time unts
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 5 has right fork
+Philosopher 4 thinks for 4087 time units
+Philosopher 5 eats for 2751 time unts
+Philosopher 3 goes for left fork
+Philosopher 3 has left fork
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 3 eats for 54 time unts
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 3388 time units
+Philosopher 6 goes for right fork
+Philosopher 2 goes for right fork
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 836 time units
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 2929 time units
+Philosopher 0 has left fork
+Philosopher 2 has right fork
+Philosopher 0 eats for 3323 time unts
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 1118 time unts
+Philosopher 5 goes for left fork
+Philosopher 3 goes for left fork
+Philosopher 3 has left fork
+Philosopher 3 goes for right fork
+Philosopher 4 goes for right fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 3 has right fork
+Philosopher 2 thinks for 3373 time units
+Philosopher 3 eats for 1986 time unts
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 537 time units
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 4928 time unts
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 1118 time units
+Philosopher 6 has left fork
+Philosopher 6 eats for 1439 time unts
+Philosopher 1 has right fork
+Philosopher 1 eats for 1767 time unts
+Philosopher 3 goes for left fork
+Philosopher 0 goes for right fork
+Philosopher 2 goes for right fork
+Philosopher 6 releases right fork
+Philosopher 5 has left fork
+Philosopher 0 has right fork
+Philosopher 6 releases left fork
+Philosopher 5 goes for right fork
+Philosopher 6 thinks for 2375 time units
+Philosopher 0 goes for left fork
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 203 time units
+Philosopher 0 has left fork
+Philosopher 2 has right fork
+Philosopher 0 eats for 4222 time unts
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 2307 time unts
+Philosopher 1 goes for left fork
+Philosopher 6 goes for right fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 1955 time units
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 3 has left fork
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 3 eats for 2388 time unts
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 2124 time units
+Philosopher 5 has right fork
+Philosopher 5 eats for 4523 time unts
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 1 has right fork
+Philosopher 0 thinks for 2747 time units
+Philosopher 1 eats for 4767 time unts
+Philosopher 2 goes for right fork
+Philosopher 4 goes for right fork
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 267 time units
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 3 goes for left fork
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 3773 time units
+Philosopher 6 has right fork
+Philosopher 4 has left fork
+Philosopher 6 goes for left fork
+Philosopher 4 eats for 2314 time unts
+Philosopher 0 has left fork
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 4979 time units
+Philosopher 0 eats for 4407 time unts
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 258 time unts
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 2666 time units
+Philosopher 4 releases right fork
+Philosopher 3 has left fork
+Philosopher 4 releases left fork
+Philosopher 3 goes for right fork
+Philosopher 4 thinks for 1700 time units
+Philosopher 3 has right fork
+Philosopher 3 eats for 1020 time unts
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 3455 time units
+Philosopher 5 goes for left fork
+Philosopher 4 goes for right fork
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 3642 time unts
+Philosopher 2 goes for right fork
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 1034 time unts
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 1334 time units
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 3907 time units
+Philosopher 6 has left fork
+Philosopher 6 eats for 2153 time unts
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 1 eats for 1059 time unts
+Philosopher 3 goes for left fork
+Philosopher 2 goes for right fork
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 3669 time units
+Philosopher 2 has right fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 2 eats for 3556 time unts
+Philosopher 3 has left fork
+Philosopher 4 releases right fork
+Philosopher 3 goes for right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 4379 time units
+Philosopher 5 has left fork
+Philosopher 5 goes for right fork
+Philosopher 5 has right fork
+Philosopher 6 releases right fork
+Philosopher 5 eats for 4187 time unts
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 3731 time units
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 432 time unts
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 1103 time units
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 172 time units
+Philosopher 3 has right fork
+Philosopher 3 eats for 4797 time unts
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 1 eats for 1523 time unts
+Philosopher 2 goes for right fork
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 6 goes for right fork
+Philosopher 4 goes for right fork
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 4112 time units
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 1595 time units
+Philosopher 0 has left fork
+Philosopher 2 has right fork
+Philosopher 0 eats for 4029 time unts
+Philosopher 2 goes for left fork
+Philosopher 1 goes for left fork
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 3824 time units
+Philosopher 2 has left fork
+Philosopher 4 has right fork
+Philosopher 2 eats for 3742 time unts
+Philosopher 4 goes for left fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 3375 time unts
+Philosopher 5 goes for left fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 2514 time units
+Philosopher 6 has left fork
+Philosopher 6 eats for 3141 time unts
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 4455 time units
+Philosopher 0 goes for right fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 3423 time units
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 1 eats for 42 time unts
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 2977 time units
+Philosopher 3 goes for left fork
+Philosopher 3 has left fork
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 3 eats for 1539 time unts
+Philosopher 6 releases right fork
+Philosopher 5 has left fork
+Philosopher 0 has right fork
+Philosopher 6 releases left fork
+Philosopher 5 goes for right fork
+Philosopher 6 thinks for 2831 time units
+Philosopher 5 has right fork
+Philosopher 5 eats for 987 time unts
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 1928 time unts
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 2901 time units
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 1122 time units
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 168 time units
+Philosopher 0 goes for right fork
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 0 has left fork
+Philosopher 0 eats for 2376 time unts
+Philosopher 3 goes for left fork
+Philosopher 3 has left fork
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 3 eats for 176 time unts
+Philosopher 3 releases right fork
+Philosopher 3 releases left fork
+Philosopher 3 thinks for 4923 time units
+Philosopher 1 goes for left fork
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 6 goes for right fork
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 2 goes for right fork
+Philosopher 4 goes for right fork
+Philosopher 4 has right fork
+Philosopher 4 goes for left fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 2004 time unts
+Philosopher 5 goes for left fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 896 time units
+Philosopher 6 has left fork
+Philosopher 1 has right fork
+Philosopher 1 eats for 3348 time unts
+Philosopher 6 eats for 2113 time unts
+Philosopher 0 goes for right fork
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 4 thinks for 2785 time units
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 1738 time units
+Philosopher 5 has left fork
+Philosopher 5 goes for right fork
+Philosopher 5 has right fork
+Philosopher 5 eats for 2360 time unts
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 3 goes for left fork
+Philosopher 3 has left fork
+Philosopher 3 goes for right fork
+Philosopher 3 has right fork
+Philosopher 3 eats for 2928 time unts
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 1 thinks for 4456 time units
+Philosopher 2 has right fork
+Philosopher 0 has left fork
+Philosopher 2 goes for left fork
+Philosopher 0 eats for 3927 time unts
+Philosopher 6 goes for right fork
+Philosopher 4 goes for right fork
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 3227 time units
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 3 releases right fork
+Philosopher 2 has left fork
+Philosopher 3 releases left fork
+Philosopher 4 has right fork
+Philosopher 2 eats for 4701 time unts
+Philosopher 4 goes for left fork
+Philosopher 4 has left fork
+Philosopher 4 eats for 3838 time unts
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 0 thinks for 18 time units
+Philosopher 6 has left fork
+Philosopher 6 eats for 4561 time unts
+Philosopher 0 goes for right fork
+Philosopher 5 goes for left fork
+Philosopher 1 goes for left fork
+Philosopher 4 releases right fork
+Philosopher 4 releases left fork
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 2 thinks for 2957 time units
+Philosopher 1 has left fork
+Philosopher 1 goes for right fork
+Philosopher 1 has right fork
+Philosopher 1 eats for 3847 time unts
+Philosopher 5 has left fork
+Philosopher 5 goes for right fork
+Philosopher 5 has right fork
+Philosopher 5 eats for 326 time unts
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 6 thinks for 3428 time units
+Philosopher 0 has right fork
+Philosopher 0 goes for left fork
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 3336 time units
+Philosopher 2 goes for right fork
+Philosopher 1 releases right fork
+Philosopher 1 releases left fork
+Philosopher 2 has right fork
+Philosopher 0 has left fork
+Philosopher 2 goes for left fork
+Philosopher 2 has left fork
+Philosopher 0 eats for 2883 time unts
+Philosopher 2 eats for 452 time unts
+Philosopher 2 releases right fork
+Philosopher 2 releases left fork
+Philosopher 6 goes for right fork
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 5 goes for left fork
+Philosopher 0 releases right fork
+Philosopher 0 releases left fork
+Philosopher 6 has left fork
+Philosopher 6 eats for 1996 time unts
+Philosopher 6 releases right fork
+Philosopher 5 has left fork
+Philosopher 6 releases left fork
+Philosopher 5 goes for right fork
+Philosopher 6 thinks for 1376 time units
+Philosopher 5 has right fork
+Philosopher 5 eats for 239 time unts
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 2329 time units
+Philosopher 6 goes for right fork
+Philosopher 6 has right fork
+Philosopher 6 goes for left fork
+Philosopher 6 has left fork
+Philosopher 6 eats for 3473 time unts
+Philosopher 5 goes for left fork
+Philosopher 5 has left fork
+Philosopher 6 releases right fork
+Philosopher 6 releases left fork
+Philosopher 5 goes for right fork
+Philosopher 5 has right fork
+Philosopher 5 eats for 569 time unts
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+Philosopher 5 thinks for 4079 time units
+Philosopher 5 goes for left fork
+Philosopher 5 has left fork
+Philosopher 5 goes for right fork
+Philosopher 5 has right fork
+Philosopher 5 eats for 4535 time unts
+Philosopher 5 releases right fork
+Philosopher 5 releases left fork
+
+Terminated successfully
+#########################################################################################
