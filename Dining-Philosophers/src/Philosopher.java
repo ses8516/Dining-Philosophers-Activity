@@ -18,28 +18,66 @@ public class Philosopher extends Thread{
 		this.eatMillis = eatMillis;
 	}
 
-
 	public void run(){
-		
-		int time = 0;
 		if (nTimes == 0){
-		
-		
-		}
-		else{
-			for (int i = 0; i < nTimes; i++){
-				time =(int)(Math.random() * ((thinkMillis + 1)));
-				
-				System.out.println("Philosopher" + this.id + "thinks for " + time + " time units");
-				try {
-					sleep(time);
-				} catch (InterruptedException e) {
-					e.printStackTrace();
-				}
-				
-				System.out.println("Philosopher" + this.id + "goes for " + "right fork");
+			while(true){
+				cycle();
 			}
-		
+		}else{
+			for (int i = 0; i < nTimes; i++){
+				cycle();
+			}
 		}
 	}
+	
+	private void cycle(){
+		int thinkTime = (int)(Math.random() * ((thinkMillis + 1)));
+		
+		System.out.println("Philosopher" + this.id + "thinks for " + thinkTime + " time units");
+		try {
+			sleep(thinkTime);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+		
+		if (rHanded){
+			goForRight();
+			yield();
+			goForLeft();
+			yield();
+		}else{
+			goForLeft();
+			yield();
+			goForRight();
+			yield();
+		}
+		
+		int eatTime = (int)(Math.random() * ((eatMillis + 1)));
+		System.out.println("Philosopher " + this.id + " eats for " + eatTime + " time unts");
+		try {
+			sleep(eatTime);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+		
+
+		right.release();
+		System.out.println("Philosopher " + this.id + " releases right fork");
+		left.release();
+		System.out.println("Philosopher " + this.id + " releases left fork");
+	}
+	
+	private void goForRight(){
+		System.out.println("Philosopher " + this.id + " goes for " + "right fork");
+		right.acquire();
+		System.out.println("Philosopher " + this.id + " has right fork");
+	}
+	
+	private void goForLeft(){
+		System.out.println("Philosopher " + this.id + " goes for " + "left fork");
+		left.acquire();
+		System.out.println("Philosopher " + this.id + " has left fork");
+	}
+	
+	
 }
